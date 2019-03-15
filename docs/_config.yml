@@ -1,0 +1,22 @@
+title: Contest Server
+description: Docs for running Fall & Spring Programming Contests
+baseurl: "/Contest-Server"
+url: "https://fsu-acm.github.io"
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+aux_links:
+  "FSU-ACM/Contest-Server on Github":
+    - "https://github.com/fsu-acm/contest-server"
+permalink: pretty
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

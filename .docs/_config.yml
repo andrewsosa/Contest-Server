@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: "FSU-ACM/Contest-Server"
+description: "The docs!!"
+logo: ./assets/logo.png
+show_downloads: false

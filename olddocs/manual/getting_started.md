@@ -49,7 +49,7 @@ npm run dev
 ```
 
 ::: tip
-Be sure your config is right before launching. You can the config docs [here](/guide/configuration.html).
+Be sure your config is right before launching. You can the config docs [here](/manual/configuration.html).
 :::
 
 
